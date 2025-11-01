@@ -1,3 +1,5 @@
+## Hi there, I'm Sharv Chopra 👋
+
 # 💫 About Me:
 
 🔭 Developing the **DigiQue application**, focusing on building a robust, full-stack solution.
