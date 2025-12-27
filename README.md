@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🔭 Developing the **DigiQue application**, focusing on building a robust, full-stack solution.
+🔭 Developing the **PrimeCompare**, focusing on building a robust, full-stack solution.
 
 👯 I'm looking to collaborate on: Innovative **full-stack projects**. I'm passionate about building scalable, user-centric web applications from concept to deployment.
 
